@@ -28,38 +28,38 @@ Do not change the items below:
     td_agawlogon_paused=พักรับสาย
     td_agawlogon_unknown=Unknown
     # 🔴 td_agawstat_current -> Current
-    ➡️ td_agawstat_current=
+    ➡️ td_agawstat_current=ปัจจุบัน
     # 🔴 td_agawstat_inserting -> Inserting
-    ➡️ td_agawstat_inserting=
+    ➡️ td_agawstat_inserting=กำลังจัดเก็บข้อมูล
     # 🔴 td_agawstat_obsolete -> Obsolete
-    ➡️ td_agawstat_obsolete=
+    ➡️ td_agawstat_obsolete=Obsolete
     # 🔴 td_agawstat_querying -> Querying
-    ➡️ td_agawstat_querying=
+    ➡️ td_agawstat_querying=กำลังค้นหาข้อมูล
     # 🔴 td_aglev_main -> Main
-    ➡️ td_aglev_main=
+    ➡️ td_aglev_main=Main
     # 🔴 td_aglev_spill -> Spill
-    ➡️ td_aglev_spill=
+    ➡️ td_aglev_spill=Spill
     # 🔴 td_aglev_undefined -> <font color='red'>Undefined</font>
     ➡️ td_aglev_undefined=
     # 🔴 td_aglev_wrap -> Wrap
-    ➡️ td_aglev_wrap=
+    ➡️ td_aglev_wrap=Wrap
     td_agstatus_agent_is_currently_logged_off=agent ได้ออกจากระบบแล้ว
     td_agstatus_agent_is_currently_logged_on=agent ได้เข้าสู่ระบบแล้ว
     td_agstatus_agent_is_currently_logged_on_some_queues=agent ได้ login เข้า queue แล้ว
     # 🔴 td_agstatus_agent_is_currently_paused -> Agent is currently paused
-    ➡️ td_agstatus_agent_is_currently_paused=
+    ➡️ td_agstatus_agent_is_currently_paused=Agent กำลังพักรับสาย
     # 🔴 td_agstatus_agent_status_cannot_be_determined -> Agent status cannot be determined
-    ➡️ td_agstatus_agent_status_cannot_be_determined=
+    ➡️ td_agstatus_agent_status_cannot_be_determined=Agent ไม่สามารถกำหนดสถานะได้
     # 🔴 td_ancod_agent_availability_for_all_the_queues -> Agent availability (for all the queues)
-    ➡️ td_ancod_agent_availability_for_all_the_queues=
+    ➡️ td_ancod_agent_availability_for_all_the_queues=Agent ที่สามารถใช้งานได้ทั้งหมด
     # 🔴 td_ancod_agent_sessions_detail -> Agent sessions: Detail
-    ➡️ td_ancod_agent_sessions_detail=
+    ➡️ td_ancod_agent_sessions_detail=รายละเอียดการใช้งานของ Agent
     # 🔴 td_ancod_answered_calls_agents_on_queue -> Answered calls: Agents on queue
-    ➡️ td_ancod_answered_calls_agents_on_queue=
+    ➡️ td_ancod_answered_calls_agents_on_queue=สายที่ได้รับ: Agent on queue
     # 🔴 td_ancod_answered_calls_details -> Answered calls: Details
-    ➡️ td_ancod_answered_calls_details=
+    ➡️ td_ancod_answered_calls_details=รายละเอียดสายที่ได้รับ
     # 🔴 td_ancod_answered_calls_disconnection_causes -> Answered calls: Disconnection causes
-    ➡️ td_ancod_answered_calls_disconnection_causes=
+    ➡️ td_ancod_answered_calls_disconnection_causes=สายที่ได้รับ: สาเหตุการวางสาย
     # 🔴 td_ancod_answered_calls_for_selected_queues -> Answered calls (for selected queues)
     ➡️ td_ancod_answered_calls_for_selected_queues=
     # 🔴 td_ancod_answered_calls_sla -> Answered calls: SLA
